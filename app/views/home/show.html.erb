@@ -1,0 +1,10 @@
+<div class="center jumbotron">
+  <h1>P-Active</h1>
+  <p>Welcome to P-Active, where you can get reliable political news and quotes.</p>
+  <% if user_signed_in? %>
+    <br><br>
+    <%= current_user.profile_photo 100 %>
+    <br><br>
+    <p>You are signed in as <%= current_user.full_name %>.</p>
+  <% end %>
+</div>
