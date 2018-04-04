@@ -3,7 +3,7 @@
   "favicon_design": {
     "ios": {
       "picture_aspect": "background_and_margin",
-      "background_color": "#ffffff",
+      "background_color": "#eb6864",
       "margin": "14%",
       "assets": {
         "ios6_and_prior_icons": false,
@@ -18,7 +18,7 @@
     ],
     "windows": {
       "picture_aspect": "no_change",
-      "background_color": "#ffffff",
+      "background_color": "#eb6864",
       "on_conflict": "override",
       "assets": {
         "windows_80_ie_10_tile": false,
@@ -33,7 +33,7 @@
     },
     "android_chrome": {
       "picture_aspect": "no_change",
-      "theme_color": "#ffffff",
+      "theme_color": "#eb6864",
       "manifest": {
         "name": "P-Active",
         "start_url": "https:\/\/p-active.kylesferrazza.com\/",
@@ -49,7 +49,7 @@
     },
     "safari_pinned_tab": {
       "picture_aspect": "silhouette",
-      "theme_color": "#ffffff"
+      "theme_color": "#eb6864"
     }
   },
   "settings": {
